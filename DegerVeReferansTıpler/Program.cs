@@ -21,6 +21,8 @@ namespace DegerVeReferansTıpler
             //sayilar1[0]???
 
 
+
+
         }
     }
 }
